@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Gallery",
+  "description": "An application that generates a gallery of images based on user search queries using Google's Gemini API. Users can input a text prompt, and the app will display a grid of AI-generated images.",
+  "requestFramePermissions": []
+}
